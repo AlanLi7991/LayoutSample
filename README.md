@@ -24,3 +24,7 @@ Same layout in iOS, Android, Web
 | Android  |   1. ConstraintLayout <br> 2. LinearLayout <br> 3. RelativeLayout   |
 | Web      |   1. FlexLayout    |
 
+# Detail
+
+Layout road map can refer this [Chinese page](https://github.com/AlanLi7991/LayoutSample/blob/master/Glance/Detail.md)
+
